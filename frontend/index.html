@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intern Management Dashboard</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+
+            <h1>🚀 Intern Dashboard</h1>
+
+            <p>Frontend & Backend Integration Project</p>
+
+            <button id="loadBtn">
+                Load Intern Data
+            </button>
+
+        </header>
+
+        <section class="stats">
+
+            <div class="stat-card">
+                <h2 id="totalInterns">0</h2>
+                <p>Total Interns</p>
+            </div>
+
+            <div class="stat-card">
+                <h2 id="apiStatus">Offline</h2>
+                <p>API Status</p>
+            </div>
+
+        </section>
+
+        <div class="search-box">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search interns...">
+        </div>
+
+        <div id="loader" class="loader hidden"></div>
+
+        <div id="internContainer" class="intern-grid"></div>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+{
+  "name": "intern-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Frontend & Backend Integration Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "intern-dashboard"
+  ],
+  "author": "Srihitha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2"
+  },
+  "type": "commonjs"
+}
