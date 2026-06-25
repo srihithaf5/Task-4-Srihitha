@@ -25,3 +25,8 @@ Setup
 
 
 <img width="1902" height="936" alt="image" src="https://github.com/user-attachments/assets/b02263c8-5387-4883-b2fc-449b255d1cd1" />
+
+
+
+<img width="1903" height="943" alt="image" src="https://github.com/user-attachments/assets/b28ed182-760a-4a4f-bc61-c40f82cf69ff" />
+
