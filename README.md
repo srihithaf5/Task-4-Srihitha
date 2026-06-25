@@ -1,8 +1,8 @@
-# 🚀 Intern Management Dashboard
+# Intern Management Dashboard
 
 A Full Stack web application that demonstrates Frontend and Backend Integration using HTML, CSS, JavaScript, Node.js, and Express.js.
 
-## 📌 Project Overview
+## Project Overview
 
 This project fetches intern data from a backend API and displays it dynamically on a modern dashboard interface.
 
@@ -17,7 +17,7 @@ The application demonstrates:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ### Frontend
 - HTML5
@@ -31,7 +31,7 @@ The application demonstrates:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 project-4/
@@ -51,7 +51,7 @@ project-4/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Clone Repository
 
@@ -85,7 +85,7 @@ http://localhost:5000
 
 ---
 
-## 🔗 API Endpoint
+## API Endpoint
 
 ### Get All Interns
 
@@ -112,7 +112,7 @@ GET /api/interns
 
 ---
 
-## 🎯 Features
+## Features
 
 - Modern Dashboard UI
 - Fetch Data from Backend API
@@ -126,7 +126,7 @@ GET /api/interns
 
 ---
 
-## 🔄 Application Flow
+## Application Flow
 
 ```text
 User Clicks Load Button
@@ -145,8 +145,6 @@ Intern Information Displayed
 ```
 
 ---
-
-## 📸 Screenshots
 
 ### Backend Running
 
@@ -169,7 +167,7 @@ http://localhost:5000/api/interns
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add New Intern
 - Edit Intern Details
@@ -180,7 +178,7 @@ http://localhost:5000/api/interns
 - Charts and Analytics
 
 ---
-
+## Screenshots
 
 <img width="1902" height="936" alt="image" src="https://github.com/user-attachments/assets/b02263c8-5387-4883-b2fc-449b255d1cd1" />
 
